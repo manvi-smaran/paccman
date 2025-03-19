@@ -2,7 +2,7 @@
 
 A Java implementation of the classic Pac-Man arcade game, built using Java Swing for graphics rendering.
 
-![Game Screenshot](screenshots/game.png)
+![Game Screenshot](game screenshot.png)
 
 ## Overview
 
