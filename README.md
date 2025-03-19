@@ -3,6 +3,7 @@
 A Java implementation of the classic Pac-Man arcade game, built using Java Swing for graphics rendering.
 
 <img src="game screenshot.png" alt="Screenshot of the game" width="600"/>
+
 ## Overview
 
 This project is a simplified clone of the iconic Pac-Man game, featuring the classic maze navigation, food collection mechanics, and ghost avoidance gameplay that made the original so beloved. The game is implemented entirely in Java using the Swing framework for graphics and user interaction.
