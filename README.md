@@ -77,8 +77,4 @@ java Main
 ## Credits
 
 - Original Pac-Man game created by Namco
-- Game sprites sourced from [source/attribution if applicable]
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
